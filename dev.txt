@@ -1,3 +1,2 @@
 this is my dev file
-how are
 u=80
